@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a364ab4a59f45684b97f61c70a6749e5
-timeCreated: 1492435840
+timeCreated: 1493040998
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -94,8 +94,8 @@ TextureImporter:
       name: Spikes
       rect:
         serializedVersion: 2
-        x: 59
-        y: 95
+        x: 47
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -121,9 +121,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
-        width: 16
-        height: 12
+        y: 104
+        width: 13
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,10 +133,10 @@ TextureImporter:
       name: Player1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 112
-        width: 16
-        height: 12
+        x: 13
+        y: 104
+        width: 13
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,10 +146,10 @@ TextureImporter:
       name: Player2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 112
-        width: 16
-        height: 12
+        x: 26
+        y: 104
+        width: 13
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
