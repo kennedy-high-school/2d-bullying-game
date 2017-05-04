@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a364ab4a59f45684b97f61c70a6749e5
-timeCreated: 1493731023
+timeCreated: 1493904019
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -11,6 +11,7 @@ TextureImporter:
     21300008: Player2
     21300010: Project 2D Platformer Sprites_0
     21300012: Project 2D Platformer Sprites_1
+    21300014: Red evil guy
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -178,6 +179,19 @@ TextureImporter:
         y: 104
         width: 12
         height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red evil guy
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 115
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
