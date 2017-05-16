@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a364ab4a59f45684b97f61c70a6749e5
-timeCreated: 1494422330
+timeCreated: 1494940689
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -16,6 +16,7 @@ TextureImporter:
     21300018: Another Ground
     21300020: Ground o 1
     21300022: Ground o 2
+    21300024: Arrow Down
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -114,7 +115,7 @@ TextureImporter:
       name: Platform_1
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 80
         width: 16
         height: 16
@@ -205,7 +206,7 @@ TextureImporter:
       name: FAncy ground sprite
       rect:
         serializedVersion: 2
-        x: 17
+        x: 19
         y: 80
         width: 16
         height: 16
@@ -218,7 +219,7 @@ TextureImporter:
       name: Another Ground
       rect:
         serializedVersion: 2
-        x: 33
+        x: 37
         y: 64
         width: 16
         height: 16
@@ -231,7 +232,7 @@ TextureImporter:
       name: Ground o 1
       rect:
         serializedVersion: 2
-        x: 50
+        x: 56
         y: 64
         width: 16
         height: 16
@@ -244,7 +245,20 @@ TextureImporter:
       name: Ground o 2
       rect:
         serializedVersion: 2
-        x: 67
+        x: 75
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arrow Down
+      rect:
+        serializedVersion: 2
+        x: 93
         y: 64
         width: 16
         height: 16
